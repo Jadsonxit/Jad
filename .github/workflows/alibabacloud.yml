@@ -1,3 +1,4 @@
+[![Build and Deploy to ACK](https://github.com/Jadsonxit/Jad/actions/workflows/alibabacloud.yml/badge.svg?event=check_run)](https://github.com/Jadsonxit/Jad/actions/workflows/alibabacloud.yml)
 # This workflow will build and push a new container image to Alibaba Cloud Container Registry (ACR),
 # and then will deploy it to Alibaba Cloud Container Service for Kubernetes (ACK), when there is a push to the "main" branch.
 #
